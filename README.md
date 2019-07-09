@@ -1,4 +1,4 @@
-# flutter_state_demo
+# flutter-interest-calculator
 
 A new Flutter application.
 
